@@ -2,7 +2,7 @@
 
 Created to evaluate one's VAKD.
 
-VAKD means:
+VAKD means: <br>
 V - Visual
 A - Auditory
 K - Kinesthetic
